@@ -1,0 +1,7 @@
+# Godot-specific
+export/
+*.import
+*.cfg
+*.tmp
+*.log
+
